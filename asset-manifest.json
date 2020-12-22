@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-CICD-GithubPages-Template/static/css/main.ee8e72e5.chunk.css",
+    "main.js": "/React-CICD-GithubPages-Template/static/js/main.8c813ee2.chunk.js",
+    "main.js.map": "/React-CICD-GithubPages-Template/static/js/main.8c813ee2.chunk.js.map",
+    "runtime-main.js": "/React-CICD-GithubPages-Template/static/js/runtime-main.219b5e81.js",
+    "runtime-main.js.map": "/React-CICD-GithubPages-Template/static/js/runtime-main.219b5e81.js.map",
+    "static/js/2.fbcba3e9.chunk.js": "/React-CICD-GithubPages-Template/static/js/2.fbcba3e9.chunk.js",
+    "static/js/2.fbcba3e9.chunk.js.map": "/React-CICD-GithubPages-Template/static/js/2.fbcba3e9.chunk.js.map",
+    "static/js/3.d02b8480.chunk.js": "/React-CICD-GithubPages-Template/static/js/3.d02b8480.chunk.js",
+    "static/js/3.d02b8480.chunk.js.map": "/React-CICD-GithubPages-Template/static/js/3.d02b8480.chunk.js.map",
+    "index.html": "/React-CICD-GithubPages-Template/index.html",
+    "static/css/main.ee8e72e5.chunk.css.map": "/React-CICD-GithubPages-Template/static/css/main.ee8e72e5.chunk.css.map",
+    "static/js/2.fbcba3e9.chunk.js.LICENSE.txt": "/React-CICD-GithubPages-Template/static/js/2.fbcba3e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.219b5e81.js",
+    "static/js/2.fbcba3e9.chunk.js",
+    "static/css/main.ee8e72e5.chunk.css",
+    "static/js/main.8c813ee2.chunk.js"
+  ]
+}
