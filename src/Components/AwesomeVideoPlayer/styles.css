@@ -1,0 +1,28 @@
+.AwesomeVideoPlayer {
+  padding: 20px;
+  height: calc(100% - 40px);
+}
+.AwesomeVideoElementWrapper {
+  height: calc(100% - 100px);
+}
+.AwesomeVideoControlsWrapper {
+  height: 100px;
+}
+.AwesomeVideoElement {
+  height: 100%;
+  width: calc(100% - 80px);
+  margin: 0px 40px;
+}
+.AwesomeVideoControls {
+  height: 100%;
+  width: 100%;
+}
+.AwesomeVideoProgress {
+  width: calc(100% - 40px);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: calc(50% - 5px);
+  margin-bottom: calc(50% - 5px);
+  height: 10px;
+  background-color: #5b6ddc;
+}
